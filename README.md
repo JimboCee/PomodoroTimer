@@ -1,4 +1,4 @@
-Jimbo's Pomodoro Timer
+Jimbos Pomodoro Timer
 ======
 
 What's a Pomodoro Timer?
