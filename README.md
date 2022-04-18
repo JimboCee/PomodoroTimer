@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+Jimbo's Pomodoro Timer
+======
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+Available Scripts
+======
 In the project directory, you can run:
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-### `npm test`
+What's a Pomodoro Timer?
+======
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.
+It uses a timer to break work into intervals, typically 25 minutes in length, separated by short breaks.
 
-### `npm run build`
+### The original technique has six steps:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    Decide on the task to be done.
+    Set the pomodoro timer (typically for 25 minutes).
+    Work on the task.
+    End work when the timer rings and take a short break (typically 5–10 minutes).
+    If you have finished fewer than three pomodoros, go back to Step 2 and repeat until you go through all three pomodoros.
+    After three pomodoros are done, take the fourth pomodoro and then take a long break (typically 20 to 30 minutes). Once the long break is finished, return to step 2.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    For the purposes of the technique, a pomodoro is an interval of work time.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Inspiration and Design Considerations
+======
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Like any student and aspiring Developer, I've watched a lot of YouTube tutorials. 
+### In admist of the sea of videos I noticed;
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ A lot of people recommend a Pomodoro Timer as a good initial project to get started with Javascript and its functions. 
+ A *lot* of people seem to enjoy watching and studying alongside 3 hour videos of other people studying. Generally, the Pomodoro technique is used.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The circular-progress-bar Javascript library essentially set the groundwork for this entire App. Being able to implement a Progress bar and enter a few parameters and a bit of ext. styling and have a component that just *works* is very nice.
 
-## Learn More
+The settings are quite self-explanatory, they hide behind a component which changes them based on an onClick function. Any future implementations as listed below should be kept away from this current settings wrapper, so as not to bulk up the container. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+I'd like to change the base colours for a shifting gradient, this will be marked as a 'TODO' here, as well as a Github Repo Issue (If you're reading this, please consider looking at the issues)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Open Source Collaboration
 
-### Code Splitting
+As this project is a Frankenstein's Monster of various local project files that resulted from watching around 8 hours of bright faced YouTube Content Creators, all while taking notes
+and getting involved sporadically, the project is entirely Open Source. You're more than welcome to edit colors for the progress bar, settings sliders and backgrounds for the application. I've tried to design it with an amount of creative ease for the dev user, but I'd like to see some more functionality long term.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+0.2 WISHLIST
+====== 
 
-### Analyzing the Bundle Size
+Bells and/or Whistles 
+------
+*Things to Add*
+  
+- Background Color Picker 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Colors for Breaks and Study Sessions, change with a smooth color shift at the end of a study or break period.
+    
+- Music hooks to play when the timer has ended; natural sounds and gentle analogue tones helping bring the user into and out of each mode of study. 
+>Think 'Brian Eno's Moodboard when he was working on Windows 95. Just any of Brian Eno's ambient work, in general. 
 
-### Making a Progressive Web App
+*Long Term*
+    
+    - iOS/Android Application. 
+    
+    - ??? 
+    
+    - Profit
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## A Project By
+    J. Cranham, 2022
