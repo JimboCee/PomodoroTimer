@@ -18,7 +18,7 @@ It uses a timer to break work into intervals, typically 25 minutes in length, se
 
 For the purposes of the technique, a pomodoro is an interval of work time.
 
-Visit the Github pages deployment to try it out for yourself. In Settings you can adjust the times of your Work and Break sessions to better fit to the task you're working on. I like to work in 30 minute bursts with a 10 minute break, but I've known people to go 60/15, 20/15 and 10/5.
+Visit the Github pages deployment to try it out for yourself. In Settings you can adjust the times of your Work and Break sessions to better fit to the task you're working on.
 
 Inspiration and Design Considerations
 ======
