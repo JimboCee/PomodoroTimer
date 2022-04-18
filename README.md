@@ -30,7 +30,7 @@ A lot of people recommend a Pomodoro Timer as a good initial project to get star
 
 A *lot* of people seem to enjoy watching and studying alongside 3 hour videos of other people studying. Generally, the Pomodoro technique is used.
 
-I like working with React and wanted to continue figuring out React and its capabilities. 
+I also like working with React and wanted to continue figuring out React and its capabilities. 
 
 The [react-circular-progress-bar](https://www.npmjs.com/package/react-circular-progressbar) Javascript library essentially set the groundwork for this entire App. Being able to implement a Progress bar and enter a few parameters and a bit of ext. styling and have a component that just *works* is very nice.
 
