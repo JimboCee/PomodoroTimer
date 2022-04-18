@@ -21,14 +21,14 @@ It uses a timer to break work into intervals, typically 25 minutes in length, se
 
 ### The original technique has six steps:
 
-    Decide on the task to be done.
-    Set the pomodoro timer (typically for 25 minutes).
-    Work on the task.
-    End work when the timer rings and take a short break (typically 5–10 minutes).
-    If you have finished fewer than three pomodoros, go back to Step 2 and repeat until you go through all three pomodoros.
-    After three pomodoros are done, take the fourth pomodoro and then take a long break (typically 20 to 30 minutes). Once the long break is finished, return to step 2.
+1. Decide on the task to be done.
+2. Set the pomodoro timer (typically for 25 minutes).
+3. Work on the task.
+4. End work when the timer rings and take a short break (typically 5–10 minutes).
+5. If you have finished fewer than three pomodoros, go back to Step 2 and repeat until you go through all three pomodoros.
+6. After three pomodoros are done, take the fourth pomodoro and then take a long break (typically 20 to 30 minutes). Once the long break is finished, return to step 2.
 
-    For the purposes of the technique, a pomodoro is an interval of work time.
+For the purposes of the technique, a pomodoro is an interval of work time.
 
 
 
@@ -38,8 +38,9 @@ Inspiration and Design Considerations
 ## Like any student and aspiring Developer, I've watched a lot of YouTube tutorials. 
 ### In admist of the sea of videos I noticed;
 
- A lot of people recommend a Pomodoro Timer as a good initial project to get started with Javascript and its functions. 
- A *lot* of people seem to enjoy watching and studying alongside 3 hour videos of other people studying. Generally, the Pomodoro technique is used.
+A lot of people recommend a Pomodoro Timer as a good initial project to get started with Javascript and its functions. 
+
+A *lot* of people seem to enjoy watching and studying alongside 3 hour videos of other people studying. Generally, the Pomodoro technique is used.
 
 The circular-progress-bar Javascript library essentially set the groundwork for this entire App. Being able to implement a Progress bar and enter a few parameters and a bit of ext. styling and have a component that just *works* is very nice.
 
