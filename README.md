@@ -50,7 +50,7 @@ I'd like to change the base colours for a shifting gradient, this will be marked
 
 # Open Source Collaboration
 
-As this project is a Frankenstein's Monster of various local project files that resulted from watching around 8 hours of bright faced YouTube Content Creators, all while taking notes
+As this project is a Frankenstein's Monster of various local project files that resulted from watching a bright faced YouTube Content Creators for about a week, all while taking notes
 and getting involved sporadically, the project is entirely Open Source. You're more than welcome to edit colors for the progress bar, settings sliders and backgrounds for the application. I've tried to design it with an amount of creative ease for the dev user, but I'd like to see some more functionality long term.
 
 0.2 WISHLIST
@@ -69,11 +69,11 @@ Bells and/or Whistles
 
 *Long Term*
     
-    - iOS/Android Application. 
+   - iOS/Android Application 
     
-    - ??? 
+   - ??? 
     
-    - Profit
+   - Profit
 
 ## A Project By
     J. Cranham, 2022
