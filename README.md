@@ -7,6 +7,9 @@ What's a Pomodoro Timer?
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.
 It uses a timer to break work into intervals, typically 25 minutes in length, separated by short breaks.
 
+Pomodoro is Spanish for 'Tomato' - one of my favourite fruits :))
+
+
 ### The original technique has six steps:
 
 1. Decide on the task to be done.
@@ -32,11 +35,11 @@ A *lot* of people seem to enjoy watching and studying alongside 3 hour videos of
 
 I also like working with React and wanted to continue figuring out React and its capabilities. 
 
-The [react-circular-progress-bar](https://www.npmjs.com/package/react-circular-progressbar) Javascript library essentially set the groundwork for this entire App. Being able to implement a Progress bar and enter a few parameters and a bit of ext. styling and have a component that just *works* is very nice.
+The [react-circular-progress-bar](https://www.npmjs.com/package/react-circular-progressbar) Javascript library essentially set the groundwork for this entire App. Being able to implement a Progress bar and enter a few parameters and a bit of ext. styling and have a component that just *works* is ery nice.
 
 The settings are quite self-explanatory, they hide behind a component which changes them based on an onClick function. Any future implementations as listed below should be kept away from this current settings wrapper, so as not to bulk up the container. 
 
-I'd like to change the base colours for a shifting gradient, this will be marked as a 'TODO' here, as well as a Github Repo Issue (If you're reading this, please consider looking at the issues)
+I'd like to change the base colours for a shifting gradient, this will be marked as a 'TODO' here, as well as a Github Repo Issue (If you're reading this, please consider looking at the github issues)
 
 # Open Source Collaboration
 
