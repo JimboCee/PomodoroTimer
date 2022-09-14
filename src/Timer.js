@@ -49,7 +49,7 @@ function Timer() {
     secondsLeftRef.current = settingsInfo.workMinutes * 60;
     setSecondsLeft(secondsLeftRef.current);
 
-    const interval = setInterval(() => {
+    const interval = setInterval(() => { //some dickhead (me) made it so the timer stops when you're tabbed out of the webpage. replace with requestAnimationFrame.
       if (isPausedRef.current) {
         return;
       }
