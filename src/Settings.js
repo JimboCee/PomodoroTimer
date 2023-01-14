@@ -4,6 +4,7 @@ import SettingsContext from "./SettingsContext";
 import {useContext} from "react";
 import BackButton from "./BackButton";
 import './Settings.css';
+import './App.css'
 
 
 function Settings() {

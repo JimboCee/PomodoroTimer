@@ -46,6 +46,11 @@ function Timer() {
       secondsLeftRef.current = nextSeconds;
     }
 
+    if (modeRef.current = 'break') {
+      
+    }
+
+
     secondsLeftRef.current = settingsInfo.workMinutes * 60;
     setSecondsLeft(secondsLeftRef.current);
 
