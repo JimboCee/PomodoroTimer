@@ -7,7 +7,7 @@ What's a Pomodoro Timer?
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.
 It uses a timer to break work into intervals, typically 25 minutes in length, separated by short breaks.
 
-Pomodoro is Spanish for 'Tomato' - one of my favourite fruits :))
+Pomodoro is Spanish for 'Tomato' 
 
 
 ### The original technique has six steps:
